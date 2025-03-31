@@ -1,8 +1,8 @@
 Main resources:  
     
 Website: https://unchainex.org/  
-X: https://x.com/unchainex  
-Telegram: https://t.me/unchainex  
+X: https://x.com/Unchainex  
+Telegram: https://t.me/Unchainex  
   
 Contact:  
   
